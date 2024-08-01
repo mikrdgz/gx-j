@@ -34,17 +34,12 @@ An epic is a collection of work focused on a larger goal. An example of an epic 
 - Click `+ Create Epic` to create a new collection of tasks. Enter a name for your epic.
 - Click on the epic to see more details on the right side of the page. 
 
-![epic menu](/images/epic-menu-1.png)
-
 ## Create a story
 Stories are the small chunks of work that make up your epic. All your team's stories are collected within the backlog.
 
 - Within the `Epic` swimlane, click the epic that you want to assign your story to.
 - In the `Backlog` click `+ Create Issue`. 
 - Enter a name for the story.
-
-![new story](/images/story-new-1.png)
-
 
 ### Manage stories
 You can edit stories after you create them. For example, you can add and update a story's point estimation. Story points are a measure of the effort and time it will take your team to complete a task.
@@ -73,8 +68,6 @@ Part of the usefulness of using sprints is being able to move stories through di
 
 - In the left-hand menu, navigate to `Board`.
 - Click and drag tasks to the appropriate swimlane based on their status. For example, drag completed stories to the `Done` swimlane. 
-
-![backlog done](/images/drag.png)
 
 ## Additional resources
 - [7 Steps to get started in Jira](https://www.atlassian.com/software/jira/guides/getting-started/basics#step-1-create-a-project)
