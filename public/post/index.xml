@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mikaela Docs Example</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Mikaela Docs Example</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jul 2024 18:34:02 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Work with sprints in Jira</title>
+      <link>http://localhost:1313/post/create-sprint/</link>
+      <pubDate>Mon, 29 Jul 2024 18:34:02 +0000</pubDate>
+      <guid>http://localhost:1313/post/create-sprint/</guid>
+      <description>A sprint is a set period of time during which your team will attempt to complete development work from a backlog. Sprints are a main component of the agile methodology of project management, called Scrum. Scrum focuses on the continuing delivery of features in bite-sized increments. To learn more, see What is Scrum?.&#xA;Many organizations use Jira software to track the work they complete during sprints. This tutorial will walk you through the steps to create, populate, and complete sprints using Jira.</description>
+    </item>
+  </channel>
+</rss>
