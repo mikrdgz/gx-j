@@ -74,7 +74,7 @@ Part of the usefulness of using sprints is being able to move stories through di
 - In the left-hand menu, navigate to `Board`.
 - Click and drag tasks to the appropriate swimlane based on their status. For example, drag completed stories to the `Done` swimlane. 
 
-![backlog done](/images/drag.png)
+![backlog done](/public/images/drag.png)
 
 ## Additional resources
 - [7 Steps to get started in Jira](https://www.atlassian.com/software/jira/guides/getting-started/basics#step-1-create-a-project)
